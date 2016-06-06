@@ -6,8 +6,8 @@ In this lesson we will do a quick review of HTML syntax and document structure f
 
 ## What's Covered in This Lesson
 
-1. Review HTML Syntax
-2. Review Document Structure
+1. HTML Syntax
+2. Document Structure
 
 ### Syntax
 
