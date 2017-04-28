@@ -21,7 +21,7 @@ Above we can see the `p` element which indicates a _paragraph_ to the browser. T
 
 There are a few exceptions where elements may just have an opening tag only. We will see a few of these in examples below such as the image element `<img>` but more on that later.
 
-Inside the starting tag `<p>` we can place attributes, such as `class="intro"` (in full, `<p class="intro">`), that help us refer to the paragraph element from JavaScript and CSS (more on that in a bit). These options are only found in the starting tag and never in the ending tag. We separate the element name `p` from the attribute name `class` using a keyboard space. We can set a value for our attribute `attribute="value"` using an `=` equals symbol and `"` quotes to surround our value.
+Inside the starting tag `<p>` we can place attributes, such as `class="intro"` (in full, `<p class="intro">`), that helps us refer to the paragraph element from JavaScript and CSS (more on that in a bit). These options are only found in the starting tag and never in the ending tag. We separate the element name `p` from the attribute name `class` using a keyboard space. We can set a value for our attribute `attribute="value"` using an `=` equals symbol and `"` quotes to surround our value.
 
 ### Document Structure
 
@@ -68,3 +68,5 @@ The Doctype tells the browser the version of HTML that it should interpret the d
 - [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-syntax-and-document-structure'>Syntax And Document Structure</a> on Learn.co and start learning to code for free.</p>
