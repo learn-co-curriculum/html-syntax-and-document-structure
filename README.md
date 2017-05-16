@@ -67,4 +67,4 @@ The Doctype tells the browser the version of HTML that it should interpret the d
 
 - [Mozilla Dev Network - Learn HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Element Lookup Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Element Cheatsheet](http://overapi.com/html-dom/)
+- [HTML Element Cheatsheet](http://overapi.com/html)
